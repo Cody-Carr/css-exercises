@@ -1,0 +1,39 @@
+.fort {
+    background-color: pink;
+    color: black;
+    font-weight: 600;
+}
+
+.three {
+    font-size: x-large;
+}
+
+#two    {
+    font-size: xx-large;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+#four   {
+    font-size: larger;
+    font-weight: 800;
+    color: black;
+    background-color: green;
+
+}
+
+.button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
